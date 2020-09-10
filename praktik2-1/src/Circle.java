@@ -1,6 +1,7 @@
 public class Circle {
     public float radius;
     public float lenCirc;
+    public String color;
 
     public void setRadius(float radius)
     {
@@ -13,9 +14,14 @@ public class Circle {
         radius = (float)(lenCirc/(2 * 3.14));
     }
 
+    public void setColor(String color)
+    {
+        this.color = color;
+    }
+
     public String toString()
     {
-        String f = "Радиус: " + radius + "\n" + "Длина окружности: " + lenCirc;
+        String f = "Радиус: " + radius + "\n" + "Длина окружности: " + lenCirc + "\n" + "Цвет окружности: " + color;
         return f;
     }
 }
