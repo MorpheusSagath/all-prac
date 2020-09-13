@@ -1,5 +1,5 @@
 public class Human {
-    public String name;
+    private String name;
     //public String email;
     public String gender;
     public String race;
@@ -7,6 +7,13 @@ public class Human {
     Leg infoLeg = new Leg();
     Hand infoHand = new Hand();
 
+    public Human()
+    {
+        infoHead.setColorEyes("brown");
+        infoHead.setColorHair("black");
+        infoHand.setSize(1.1f);
+        infoLeg.setSize(1.113f);
+    }
     public void setName(String name)
     {
         this.name = name;
@@ -21,10 +28,10 @@ public class Human {
     }
     public String toString()
     {
-        String f = "" + name + "\n" + "" + gender + "\n" + "" + race + "\n";
-        System.out.println(infoHead);
-        System.out.println(infoHand);
-        System.out.println(infoLeg);
+        String f = "Информация о человеке" + "\n\n" + "Имя: " + name + "\n" + "Гендер: " + gender + "\n" + "Раса: " + race;
+        f += "\n" + infoHead.toString();
+        f += "\n" + infoHand.toString();
+        f += "\n" + infoLeg.toString();
         return f;
     }
 }

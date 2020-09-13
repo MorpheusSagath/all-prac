@@ -1,6 +1,6 @@
 public class Head {
-    public String colorHair;
-    public String colorEyes;
+    private String colorHair;
+    private String colorEyes;
 
     public void setColorHair(String colorHair)
     {
@@ -13,7 +13,7 @@ public class Head {
 
     public String toString()
     {
-        String f = "Цвет волос: " + colorHair + "\n" + "Цвет глаз" + colorEyes;
+        String f = "Цвет волос: " + colorHair + "\n" + "Цвет глаз: " + colorEyes;
         return f;
     }
 }
