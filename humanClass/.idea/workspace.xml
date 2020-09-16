@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8793d71e-a60f-47cb-aca1-d70f569f2cc7" name="New changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hJDXHvWLrQ3pdRdEQFG8xtg1bS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="HumanBody" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HumanBody" />
+      <module name="humanClass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HumanBody" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8793d71e-a60f-47cb-aca1-d70f569f2cc7" name="New changelist" comment="" />
+      <created>1599720341349</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599720341349</updated>
+    </task>
+    <task id="LOCAL-00001" summary="начало работы с классом Человек">
+      <created>1599722527802</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599722527802</updated>
+    </task>
+    <task id="LOCAL-00002" summary="создана основа для класса человека">
+      <created>1600018273649</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600018273649</updated>
+    </task>
+    <task id="LOCAL-00003" summary="человек">
+      <created>1600018755599</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600018755599</updated>
+    </task>
+    <task id="LOCAL-00004" summary="человеко-класс">
+      <created>1600023129279</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600023129279</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/123/IdeaProjects/humanClass/.idea" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="начало работы с классом Человек" />
+    <MESSAGE value="создана основа для класса человека" />
+    <MESSAGE value="человек" />
+    <MESSAGE value="человеко-класс" />
+    <option name="LAST_COMMIT_MESSAGE" value="человеко-класс" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="370" y="203" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1600021838397">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="370" y="203" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1600021838397" />
+    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1600023322606">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1600023322606" />
+    <state x="121" y="51" key="DiffContextDialog" timestamp="1600023239658">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="51" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1600023239658" />
+    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1600023683394">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1600023683394" />
+    <state x="515" y="239" key="Github.ShareDialog" timestamp="1600023717055">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="515" y="239" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1600023717055" />
+    <state x="460" y="39" key="Github.UntrackedFilesDialog" timestamp="1600023781496">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="460" y="39" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1600023781496" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1600023410449">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600023410449" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1600023410449">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1600023410449" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1600023410449">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1600023410449" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1600023410449">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1600023410449" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1600018976610">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1600018976610" />
+    <state x="471" y="210" key="VCS.EditChangelistDialog" timestamp="1600023621400">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="471" y="210" key="VCS.EditChangelistDialog/0.0.1280.680@0.0.1280.680" timestamp="1600023621400" />
+    <state x="233" y="74" width="816" height="533" key="Vcs.Push.Dialog.v2" timestamp="1600023330091">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" width="816" height="533" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1600023330091" />
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600023273948">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1600023273948" />
+    <state x="435" y="242" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600023284160">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="435" y="242" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.680@0.0.1280.680" timestamp="1600023284160" />
+    <state x="457" y="235" key="git4idea.ui.GitResetDialog" timestamp="1600018482988">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="457" y="235" key="git4idea.ui.GitResetDialog/0.0.1280.680@0.0.1280.680" timestamp="1600018482988" />
+    <state x="91" y="0" key="new project wizard" timestamp="1600253315099">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1600253315099" />
+  </component>
+</project>
