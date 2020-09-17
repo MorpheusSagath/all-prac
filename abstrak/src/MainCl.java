@@ -3,7 +3,9 @@ public class MainCl {
         Spoon tea = new Spoon("Ложка", "Чайная");
         tea.displayInfo();
         System.out.println();
-        Pan pan = new Pan("Кастрюля", 12f);
+        Pan pan = new Pan("Кастрюля", 12f, "");
         pan.displayInfo();
+        pan.setStatus("Пустая");
+        pan.getStatus();
     }
 }
