@@ -2,6 +2,7 @@ public class Table extends Furniture{
     public float ox;
     public float oy;
     public float oz;
+    //public String table_name = "Столы";
     public Table(String name, String material, float cost, float ox, float oy, float oz)
     {
         super(name, material, cost);
@@ -21,7 +22,10 @@ public class Table extends Furniture{
     public void setOz(float oz) {
         this.oz = oz;
     }
-
+    /*public String getTable_name()
+    {
+        return table_name;
+    }*/
     @Override
     public String toString() {
         //sout(super.toString());
