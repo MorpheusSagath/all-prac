@@ -7,18 +7,12 @@ import java.awt.event.MouseListener;
 
 public class FootballForm {
     private JPanel panelFoot;
-    private JTextPane textPaneT1;
-    private JTextPane textPaneT2;
-    private JButton startButton;
     private JButton scoreAddT1;
     private JButton resultButton;
     private JButton scoreAddT2;
-    private JLabel scoreT1;
     private JLabel scores;
     private JLabel team1;
     private JLabel team2;
-    private JTextField textFieldT1;
-    private JTextField textFieldT2;
     private int numScoreTeam1 = 0;
     private int numScoreTeam2 = 0;
 
